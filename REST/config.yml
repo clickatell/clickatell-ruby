@@ -1,0 +1,3 @@
+clickatell:
+  url: "https://api.clickatell.com/rest/"
+  auth_token: 'YourKeyHere'

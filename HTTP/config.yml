@@ -1,0 +1,5 @@
+clickatell:
+  url: 'https://api.clickatell.com/'
+  username: 'YourUsernameHere'
+  password: 'YourPasswordHere'
+  api_id: 'YourAPIidHere'
