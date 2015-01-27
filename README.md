@@ -1,6 +1,11 @@
 Clickatell Ruby Examples
 ========================
 
+You can see our other libraries and more documentation at the [Clickatell APIs and Libraries Project](http://clickatell.github.io/).
+
+------------------------------------
+
+
 This is a collection of  ruby example scripts that uses Clickatell HTTP and Rest APIs
 
 Required gems used in the examples that you will need to install 
